@@ -1,3 +1,5 @@
-def main():
-	print("Hello World!")
-main()
+<<<<<<< HEAD
+print("Hello World!")
+=======
+print("Hello world!")
+>>>>>>> intermediate/master
